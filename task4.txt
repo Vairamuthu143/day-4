@@ -1,0 +1,28 @@
+resume.json 
+{
+"basic details": {
+    "name":"******",
+    "label":"******",
+    "image": "******",
+    "email":"******",
+    "phone": "******",
+      "location":"******",
+      "address": "******",
+      "pin code": "******",
+      "city":"******",
+      "country":"******",
+      
+    },
+
+"education":{
+     "qualification":"******",
+      "department":"******",
+      "cpga percentage":"******",
+}
+
+}
+
+
+
+
+
